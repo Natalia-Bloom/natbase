@@ -1,0 +1,4 @@
+uploads/*
+plugins/*
+/themes/natbase/node_modules
+/themes/natbase/package-lock.json
