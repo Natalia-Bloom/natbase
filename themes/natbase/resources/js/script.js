@@ -1,5 +1,5 @@
 // ₊˚ ‿︵‿︵‿︵୨୧ · · ♡ · · ୨୧‿︵‿︵‿︵ ˚₊
-// External Dependencies
+// Dependencies
 // ₊˚ ‿︵‿︵‿︵୨୧ · · ♡ · · ୨୧‿︵‿︵‿︵ ˚₊
 
-console.log($('body'));
+
