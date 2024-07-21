@@ -7,7 +7,7 @@
 	<meta name="author" content="Natalia Bloom">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-	<link rel="shortcut icon" href="#">
+	<link rel="shortcut icon" href="<?php bloginfo('template_url'); ?>/resources/images/favicon.ico">
 	
 	<title>Nat's Base Theme</title>
 

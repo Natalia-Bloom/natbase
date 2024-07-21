@@ -5,7 +5,7 @@
 // •················•················•
 
 function register_custom_post_type() {
-	register_post_type( 'theme-custom-posts', [
+	register_post_type( 'custom-posts', [
 		'public' => true,
 		'has-archive' => true,
 		'show_ui' => true,

@@ -4,8 +4,8 @@
 // Shortcodes
 // •················•················•
 
-function register_new_shortcode() {
-	return 'hello';	
+function register_display_year() {
+	return 'do something before you return';
 }
 
-add_shortcode( 'new_shortcode', 'register_new_shortcode' );
+add_shortcode( 'display_year', 'register_display_year' );
