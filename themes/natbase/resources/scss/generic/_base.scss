@@ -1,0 +1,14 @@
+// ✦———————✿———————✦—✿—✦———————✿———————✦
+// Base
+// ✦———————✿———————✦—✿—✦———————✿———————✦
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	font-size: var(--theme-font-size);
+	font-weight: var(--theme-font-weight);
+	font-family: var(--theme-font-family);
+	line-height: var(--theme-line-height);
+}

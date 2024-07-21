@@ -7,4 +7,9 @@ mix
 .sass( 'resources/scss/style.scss', 'dist' ).setPublicPath( 'dist')
 .autoload( {
     jquery: ['$', 'window.jQuery', 'jQuery'],
+} )
+.webpackConfig( {
+    stats: {
+         children: true
+    }
 } );
